@@ -1,0 +1,24 @@
+.withdraw-container {
+    max-width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    background: #fff;
+    text-align: center;
+}
+
+.withdraw-container input {
+    width: 100%;
+    padding: 8px;
+    margin: 12px 0;
+}
+
+.withdraw-container button {
+    width: 100%;
+    padding: 8px;
+    background: #f44336;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
