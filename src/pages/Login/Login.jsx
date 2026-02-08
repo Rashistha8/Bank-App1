@@ -102,7 +102,7 @@ function Login() {
       </Button>
 
       <Text type="secondary" style={{ display: 'block', marginTop: 12 }}>
-        Test accounts: asasfasv@test.com / password OR cfsfvdhjvhj@test.com/ password
+        Test accounts: admin@test.com / password OR useradmin@test.com/ password
       </Text>
 
       <Text
